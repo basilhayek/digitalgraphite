@@ -5,6 +5,7 @@ There's a few things I want to log on a semi-regular basis: my coding, personal 
 I've tried different apps, sometimes a couple at a time, but none seemed so stick. Switching between apps seemed sub-optimal. Plus I didn't like being locked in to that platform.
 
 So of course I thought: why not do it in Notion?
+<!--excerpt-->
 
 I set up a Gallery with very basic customization. Set the Card preview to be the page cover and added a formula to concatenate the Created date and the Name as the title. No tags for now, I'll add them later.
 
@@ -21,10 +22,11 @@ For a while this worked, but then I decided it would be nice to have some sort o
 I realize there's still a lot more that I could add, but it works for now.
 
 To use this, choose to provide a Link as your Notion cover, and then enter a URL in one of the following formats:
-* https\://www\.coversfornotion\.com/solid/**<color>**
-* https\://www\.coversfornotion\.com/gradient/**<color1>**/**<color2>**
-* https\://www\.coversfornotion\.com/emoji/**<emoji>**/**<color>**
-* https\://www\.coversfornotion\.com/emoji/**<emoji>**/**<color1>**/**<color2>**
+* https\://www\.coversfornotion\.com/solid/\<color\>
+* https\://www\.coversfornotion\.com/gradient/\<color1\>/\<color2\>
+* https\://www\.coversfornotion\.com/emoji/\<emoji\>/\<color\>
+* https\://www\.coversfornotion\.com/emoji/\<emoji\>/\<color1\>/\<color2\>
+
 
 For the above:
 * emoji: is an emoji name ([WebFx emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/))
@@ -33,5 +35,3 @@ For the above:
 A bit more detailed instructions and examples are [here](https://www.notion.so/basilhayek/Covers-for-Notion-32e8918fbc3f46f6a8006f21a747cb96).
 
 That's it. The code is here on [repl.it](https://repl.it/@basilhayek/notioncover) if you want to fork and play with it, and also on [Github](https://github.com/basilhayek/notioncover).
-
-Have fun!

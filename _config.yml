@@ -10,11 +10,9 @@ minima:
   social_links:
     twitter: DigGraphiteDev
     github: basilhayek
-    linkedin: basilhayek
     
 twitter_username: DigGraphiteDev
 github_username:  basilhayek
-linkedin_username: basilhayek
 
 gems:
   - jekyll-mentions

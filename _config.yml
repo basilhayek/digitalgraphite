@@ -1,1 +1,20 @@
-theme: jekyll-theme-cayman
+title: Digital Graphite
+description: 
+google_analytics: 
+show_downloads: false
+show_excerpts: true
+theme: minima
+excerpt_separator: "<!--excerpt-->"
+
+minima:
+  social_links:
+    twitter: DigGraphiteDev
+    github: basilhayek
+    linkedin: basilhayek
+    
+twitter_username: DigGraphiteDev
+github_username:  basilhayek
+linkedin_username: basilhayek
+
+gems:
+  - jekyll-mentions

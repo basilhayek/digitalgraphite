@@ -32,6 +32,6 @@ For the above:
 * emoji: is an emoji name ([WebFx emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/))
 * color: any hex code or standard color name ([W3C color names](https://drafts.csswg.org/css-color-4/#named-colors))
 
-A bit more detailed instructions and examples are [here](https://www.notion.so/basilhayek/Covers-for-Notion-32e8918fbc3f46f6a8006f21a747cb96).
+A bit more detailed instructions and examples are [here](https://www.notion.so/Covers-for-Notion-32e8918fbc3f46f6a8006f21a747cb96).
 
 That's it. The code is here on [repl.it](https://repl.it/@basilhayek/notioncover) if you want to fork and play with it, and also on [Github](https://github.com/basilhayek/notioncover).
